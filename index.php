@@ -5,3 +5,4 @@ echo '2';
 echo '3';
 echo 'E';
 echo 'D';
+echo 'C';
