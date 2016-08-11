@@ -1,4 +1,6 @@
 <?
 
 echo '';
-echo 'A';
+
+echo 'B';echo 'A';
+
